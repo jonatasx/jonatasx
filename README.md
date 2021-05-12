@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there guys👋
 
+
+I'm a IT Technician who studies programing, - 🌱 I’m currently learning ... JS, TS, C#, React and React Native
+
+
+
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%B4natas-s-a14ba6b7/- )](https://www.linkedin.com/in/j%C3%B4natas-s-a14ba6b7/)
 <!--
 **jonatasx/jonatasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
