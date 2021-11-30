@@ -7,7 +7,9 @@ I'm a IT Technician who studies programing, - 🌱 I’m currently learning ... 
 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%B4natas-s-a14ba6b7/- )](https://www.linkedin.com/in/j%C3%B4natas-s-a14ba6b7/)
+- <div align="center"> 
 - <a href = "jonatas.santospessoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 <!--
 **jonatasx/jonatasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
