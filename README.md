@@ -13,7 +13,7 @@ I'm a IT Technician who studies programing, - 🌱 I’m currently learning ... 
   <img align="center" alt="Jonatas-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jonatas-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/sqlserver-original.svg">
+ <img align="center" alt="Jonatas-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/sqlserver-original.svg">
   <img align="center" alt="Jonatas-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jonatas-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
