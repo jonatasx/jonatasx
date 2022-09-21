@@ -4,7 +4,7 @@
 I'm a IT Technician who studies programing, - 🌱 I’m currently learning ... JS, TS, C#, React and React Native
 
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
           
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,6 @@ I'm a IT Technician who studies programing, - 🌱 I’m currently learning ... 
   <img align="center" alt="Jonatas-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jonatas-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <i class="devicon-dot-net-plain-wordmark colored"></i>
   <img align="center" alt="Jonatas-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jonatas-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
