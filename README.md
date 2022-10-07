@@ -3,6 +3,10 @@
 
 I'm a IT Technician who studies programing, - 🌱 I’m currently learning ... JS, TS, C#, React and React Native
 
+Now i'm a full stack developer	
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+
 
 
           
